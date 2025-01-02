@@ -1,0 +1,7 @@
+com\sony\microservice\product\model\Product.class
+com\sony\microservice\product\controller\ProductController.class
+com\sony\microservice\product\dto\ProductResponse.class
+com\sony\microservice\product\dto\ProductRequest.class
+com\sony\microservice\product\repository\ProductRepository.class
+com\sony\microservice\product\ProductServiceApplication.class
+com\sony\microservice\product\service\ProductService.class
